@@ -1,0 +1,73 @@
+body {
+	font-family: Helvetica;
+}
+
+section#left {
+	background-color: Navy;
+	color: white;
+	height: 700px;
+	width: 25%;
+	float: left;
+}
+
+section#first {
+	background-color: RoyalBlue;
+	height: 100px;
+	width: 75%;
+	text-align: center;
+	letter-spacing: 5px;
+	float: left;
+}
+
+section#second {
+	background-color: SteelBlue;
+	height: 300px;
+	width: 75%;
+	float: left;
+}
+
+section#third {
+	background-color: RoyalBlue;
+	height: 300px;
+	width: 75%;
+	text-align: center;
+	float: left;
+}
+
+section#footer {
+	 background-color: SteelBlue;
+	 text-align: center;
+	 padding: 20px;
+	 clear: both;
+ }
+ 
+form {
+	margin: 30px;
+	line-height: 3;
+}
+
+form:hover {
+	background-color: DeepSkyBlue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
